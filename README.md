@@ -4,7 +4,7 @@ Scripts for reproducing data and figures in manuscript:
 Aleksander E. P. Durumeric, Sean McCarty, Jay Smith, Jonas Köhler, Katarina Elez, Lluís Raich, Patricia A. Suriana, and Terra Sztain. "Machine Learning Driven Simulations of the SARS-CoV-2 Fitness Landscape from Deep Mutational Scanning Experiments."
 
 ### ML training and MCMC simulation
-Code for training ML models and conducting MCMC simulations can be found at: //github.com/SztainLab/mavenets
+Code for training ML models and conducting MCMC simulations can be found at: [github.com/SztainLab/mavenets](https://github.com/SztainLab/mavenets)
 
 ### Trained models
 All trained models used in final publication can be found in [trained_models](https://github.com/SztainLab/ML_evolution_SARS-CoV-2/tree/main/trained_models)
